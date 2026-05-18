@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.env
+config.json
+upload.json
+downloads/
+uploaded/
+*.ogg
+*.mp3
